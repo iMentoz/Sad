@@ -716,7 +716,7 @@ async function starts() {
 				    await limitAdd(sender) 	
 				    break 
 				case 'owner':
-                 client.sendMessage(from, {displayname: "Fxc7", vcard: vcard}, MessageType.contact, { quoted: mek})
+                 client.sendMessage(from, {displayname: "Cursed", vcard: vcard}, MessageType.contact, { quoted: mek})
                  client.sendMessage(from, 'Jika Mau Save Chat Aja Gan Ntar Disave Back:)',text, { quoted: mek} )
                  break
                  case 'fitnah':	
