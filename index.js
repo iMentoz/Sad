@@ -185,10 +185,11 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			`6282340533705`,`6285333243155`@s.whatsapp.net
+			"6282340533705@s.whatsapp.net"
+			"6285333243155@s.whatsapp.net"	
 			]
 			premium = [
-			`6285333243155`@s.whatsapp.net
+			"6285333243155@s.whatsapp.net"
 			]
 			
 			const apakahh = [
